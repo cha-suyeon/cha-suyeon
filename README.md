@@ -10,6 +10,7 @@
 - **Framework** Tensorflow, Pytorch
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=orange"/></a>&nbsp 
+<img alt="Python" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=FF6F00"/>
 
 #### 🎓 Education
 - Dongduk Women's University (2016.03~2021.08)
