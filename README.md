@@ -19,8 +19,6 @@
 - AIFFEL AI Education Team
 - Facilitator
 
-#### 📫 Contact
-- suyeon.chaa@gmail.com
 
 #### You can check my Portfolio 💬[here]()💬
 
