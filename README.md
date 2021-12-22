@@ -2,30 +2,23 @@
 --- 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
+#### ⚡ Research Interests
+
+
+#### 📚 Skills
+- **Programming** Python
+- **Framework** Tensorflow, Pytorch
+
 #### 🎓 Education
 - Dongduk Women's University (2016.03~2021.08)
   - Creative Writing 🖋
   - Information Statistics 📊
 - AI Education AIFFEL (2021.06~2021.12)
 
-</br>
-
 #### 🔭 Work Experience
 **MODULABS**👨‍🔬
 - AIFFEL AI Education Team
 - Facilitator
-
-</br>
-
-#### ⚡ Research Interests
-
-</br>
-
-#### 📚 Skills
-- **Programming** Python
-- **Framework** Tensorflow, Pytorch
-
-</br>
 
 #### 📫 Contact
 - suyeon.chaa@gmail.com
