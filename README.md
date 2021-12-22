@@ -9,7 +9,7 @@
 - **Programming** <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - **Framework** Tensorflow, Pytorch
 
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=orange"/></a>&nbsp 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=orange"/></a>&nbsp 
 
 #### 🎓 Education
 - Dongduk Women's University (2016.03~2021.08)
