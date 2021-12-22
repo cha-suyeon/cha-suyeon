@@ -10,8 +10,8 @@
 - **Framework** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 #### 🎓 Education
 - Dongduk Women's University (2016.03~2021.08)
-  - Creative Writing 🖋
-  - Information Statistics 📊
+  - 🖋 Creative Writing 
+  - 📊 Information Statistics 
 - AI Education AIFFEL (2021.06~2021.12)
 
 #### 🔭 Work Experience
