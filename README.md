@@ -19,9 +19,8 @@ You can check my Portfolio 💬[here]()💬
 - AI Education AIFFEL (2021.06~2021.12)
 
 #### 🔭 Work Experience
-**MODULABS**👨‍🔬
-- AIFFEL AI Education Team
-- Facilitator
+**MODULABS**👨‍🔬 (2021.12.20~)
+- AIFFEL AI Education Team, Facilitator
 
 
 
