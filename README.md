@@ -5,6 +5,8 @@
 You can check my Portfolio 💬[here]()💬
 
 #### ⚡ Research Interests
+- Computer Vision
+  - Object Detection
 
 
 #### 📚 Skills
