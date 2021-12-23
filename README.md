@@ -15,7 +15,7 @@ You can check my Portfolio 💬[here]()💬
 #### 🎓 Education
 - Dongduk Women's University (2016.03~2021.08)
   - 🖋 Creative Writing 
-  - 📊 Information Statistics 
+  - 📊 Statistics and Information Science
 - AI Education AIFFEL (2021.06~2021.12)
 
 #### 🔭 Work Experience
