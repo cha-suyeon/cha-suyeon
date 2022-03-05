@@ -19,9 +19,6 @@
 - AI Education AIFFEL (2021.06~2021.12)
 
 #### 🔭 Work Experience
-- **MIXNFIX** 📊 (2021.03~2021.06)
-  - Marketing Team, Performance Marketer
-
 - **MODULABS** 👨‍🔬 (2021.12.20~)
   - AIFFEL AI Education Team, Facilitator
 
