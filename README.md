@@ -25,6 +25,7 @@ and contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836
 Mar 2016–Aug 2021 Dongduk Women’s University
 - Division·Major: Creative Writing 🖋, Bachelor of Arts
 - Double Major: Statistics and Information Science 📊, Bachelor of Science
+
 Jul 2021–Dec 2021 AI Education, AIFFEL
 
 <br/>
