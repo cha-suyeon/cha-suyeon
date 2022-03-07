@@ -3,15 +3,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 #### ⚡ Research Interests
-- Computer Vision
-  - Object Detection
-- Natural Language Processing
+- Computer Vision and Visual Tracking
+    - Object Detection and Recognition
+    - Video Object Segmentation
+    - Visual Question Answering
 
 <br/>
 
 #### 📚 Skills
 - **Language** <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - **Framework** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+- **other tools** <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
 <br/>
 
