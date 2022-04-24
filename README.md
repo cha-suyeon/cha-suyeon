@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 --- 
-My CV is here <a href="https://flat-lung-6e3.notion.site/Suyeon-Cha-5f2c4022ed5b4ebe95cd685005f710db" target="_blank"><img src="https://img.shields.io/badge/-CV-blueviolet"/></a> and contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+There is my <a href="https://flat-lung-6e3.notion.site/Suyeon-Cha-5f2c4022ed5b4ebe95cd685005f710db" target="_blank"><img src="https://img.shields.io/badge/-CV-blueviolet"/></a> and contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 <br/>
 
