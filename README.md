@@ -8,7 +8,6 @@ My CV is here <a href="https://flat-lung-6e3.notion.site/Suyeon-Cha-5f2c4022ed5b
 - Computer Vision and Visual Tracking
     - Object Detection and Recognition
     - Video Object Segmentation
-    - Visual Question Answering
 
 <br/>
 
@@ -16,22 +15,5 @@ My CV is here <a href="https://flat-lung-6e3.notion.site/Suyeon-Cha-5f2c4022ed5b
 - **Language** <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - **Framework** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 - **other tools** <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>, etc
-
-<br/>
-
-#### 🎓 Education
-Mar 2016–Aug 2021 Dongduk Women’s University
-- Division·Major: Creative Writing 🖋, Bachelor of Arts
-- Double Major: Statistics and Information Science 📊, Bachelor of Science
-
-Jul 2021–Dec 2021 AI Education, AIFFEL
-
-<br/>
-
-#### 🔭 Work Experience
-- **MODULABS** 👨‍🔬 (2021.12.20~)
-  - AIFFEL AI Education Team, Facilitator
-
-<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-suyeon)](https://github.com/anuraghazra/github-readme-stats)
