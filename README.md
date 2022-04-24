@@ -16,4 +16,6 @@ My CV is here <a href="https://flat-lung-6e3.notion.site/Suyeon-Cha-5f2c4022ed5b
 - **Framework** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 - **other tools** <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>, etc
 
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-suyeon)](https://github.com/anuraghazra/github-readme-stats)
