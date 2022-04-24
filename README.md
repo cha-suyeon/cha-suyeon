@@ -6,13 +6,6 @@
 
 <br/>
 
-#### ⚡ Research Interests
-- Computer Vision and Visual Tracking
-    - Object Detection and Recognition
-    - Video Object Segmentation
-
-<br/>
-
 #### 📚 Skills
 - **Language** <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - **Framework** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
