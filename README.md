@@ -2,7 +2,7 @@
 --- 
 - There is my <a href="https://flat-lung-6e3.notion.site/Suyeon-Cha-5f2c4022ed5b4ebe95cd685005f710db" target="_blank"><img src="https://img.shields.io/badge/-CV-blueviolet"/></a>
 - Contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com)
-- I make an effort to keep my tech blog <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://chasuyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+- I make an effort to keep my tech blog <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/tistory-#000000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 <br/>
 
