@@ -9,7 +9,11 @@ INFORMATIONS
 Currently, I am a...
 - Master's Course in VILab.
 
-- Contact me through 
+I'm interested in ...
+- Computer vision
+- Deep Learning
+- Object Recognition
+
 - I make an effort to keep my tech blog <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://chasuyeon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black"/></a>
 <br/>
 
