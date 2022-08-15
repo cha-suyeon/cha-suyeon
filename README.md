@@ -1,6 +1,15 @@
 ### Hi Everyone 👋
 --- 
-- Contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com)
+INFORMATIONS
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) 
+<a href="suyeon.cha@vilab.cau.ac.kr" target="_blank"><img src="https://img.shields.io/badge/-Mail-black"/></a>
+<br/>
+
+
+Currently, I am a...
+- Master's Course in VILab.
+
+- Contact me through 
 - I make an effort to keep my tech blog <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://chasuyeon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black"/></a>
 <br/>
 
