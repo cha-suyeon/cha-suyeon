@@ -1,27 +1,26 @@
-### Hi Everyone 👋
+Deep Dive...🫧🫧
 --- 
-INFORMATIONS
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) 
-[![Gmail Badge](https://img.shields.io/badge/Mail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.cha@vilab.cau.ac.kr)](mailto:suyeon.cha@vilab.cau.ac.kr)
-
+Info
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) [![Gmail Badge](https://img.shields.io/badge/Mail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.cha@vilab.cau.ac.kr)](mailto:suyeon.cha@vilab.cau.ac.kr) <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://chasuyeon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black"/></a>
+</br>
 
 Currently, I am a...
 - Master's Course in VILab.
+
+</br>
 
 I'm interested in ...
 - Computer vision
 - Deep Learning
 - Object Recognition
 
-- I make an effort to keep my tech blog <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://chasuyeon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black"/></a>
-<br/>
+</br>
 
-#### 📚 Skills
+My Skills...
 - **Language** <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - **Framework** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 - **other tools** <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> etc
 
-<br/>
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-suyeon)](https://github.com/anuraghazra/github-readme-stats)
