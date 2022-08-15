@@ -2,8 +2,7 @@
 --- 
 INFORMATIONS
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com) 
-<a href="suyeon.cha@vilab.cau.ac.kr" target="_blank"><img src="https://img.shields.io/badge/-Mail-black"/></a>
-<br/>
+[![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.cha@vilab.cau.ac.kr)](mailto:suyeon.cha@vilab.cau.ac.kr)
 
 
 Currently, I am a...
