@@ -4,9 +4,7 @@ I want to deep dive ...
 [![Gmail Badge](https://img.shields.io/badge/Mail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.cha@vilab.cau.ac.kr)](mailto:suyeon.cha@vilab.cau.ac.kr)
 <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://chasuyeon.tistory.com
-" target="_blank"><img src="https://img.shields.io/badge/Tumblr-36465D?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-<a href="https://chasuyeon.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black"/></a>
+" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 </br>
 
