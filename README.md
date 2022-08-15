@@ -6,7 +6,7 @@ I want to deep dive ...
 
 <a href="https://chasuyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tis-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 </br>
 
