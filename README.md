@@ -1,5 +1,9 @@
-I want to deep dive 🤿
+I want to deep dive 🤿🫧
 --- 
+in Computer Vision!
+
+---
+*I am ...*
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/Mail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.cha@vilab.cau.ac.kr)](mailto:suyeon.cha@vilab.cau.ac.kr)
 <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
