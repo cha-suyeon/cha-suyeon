@@ -1,4 +1,4 @@
-I want to deep dive 🤿🫧
+I want to deep dive 🤿
 --- 
 **_I am ..._**
 </br>
