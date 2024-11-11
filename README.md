@@ -3,14 +3,10 @@ I want to deep dive 🤿
 
 Hi, I'm Suyeon Cha, a passionate AI/ML developer eager to dive deep into new technologies.
 
-</br>
-
 #### 📝 My Tech Blog
 I regularly share insights and tutorials on AI, Python, Paper, and software development on my tech blog. Check it out for practical guides, in-depth analyses!
 <a href="https://velog.io/@cha-suyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://chasuyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
-</br>
 
 #### 🛠 Skills
 
