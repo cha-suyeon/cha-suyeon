@@ -1,5 +1,7 @@
 I want to deep dive 🤿
 --- 
+
+Hi, I'm Suyeon Cha, a passionate AI/ML developer eager to dive deep into new technologies.
 **_I am ..._**
 </br>
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com)
@@ -8,6 +10,18 @@ I want to deep dive 🤿
 <a href="https://chasuyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 **_Skills_**
+
+### Skills
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **Frameworks**: ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+- **Tools**: ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey) ![Slack](https://img.shields.io/badge/-Slack-purple)
+
+![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## Let's Connect!
+- **Email**: your.email@example.com
+- **LinkedIn**: [Suyeon Cha](https://linkedin.com/in/your-profile)
+
 </br>
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>, etc
 
