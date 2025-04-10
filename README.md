@@ -18,7 +18,9 @@ I regularly share insights and tutorials on AI, Python, Paper, and software deve
 
 #### 💌 Connect
 - **Email**: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.chaa@gmail.com)](mailto:suyeon.chaa@gmail.com), [![Gmail Badge](https://img.shields.io/badge/Mail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon.cha@vilab.cau.ac.kr)](mailto:suyeon.cha@vilab.cau.ac.kr)
-- **LinkedIn**: [Suyeon Cha]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/suyeon-cha-758372211/))
+- **LinkedIn**: [Suyeon Cha](https://www.linkedin.com/in/suyeon-cha-758372211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyeon-cha-758372211/)
+
 
 </br>
 
