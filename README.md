@@ -22,5 +22,5 @@ I regularly share insights and tutorials on AI, Python, Paper, and software deve
 
 </br>
 
-![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-suyeon)]
+![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-suyeon)
 
