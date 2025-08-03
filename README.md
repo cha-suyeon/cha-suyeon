@@ -24,10 +24,10 @@
 `Hugging Face` · `Transformers` · `LangChain` · `LlamaIndex` · `OpenAI API`
 
 ### 🔹 Data Engineering  
-`Pandas` · `NumPy` · `OpenCV`
+`Pandas` · `NumPy` · `OpenCV` · `SQL (PostgreSQL, SQLite)`
 
-### 🔹 DevOps  
-`Docker` · `Git` · `Linux`
+### 🔹 DevOps & Cloud  
+`Docker` · `Git` · `Linux` · `AWS`
 
 ### 🔹 Tools  
 `GitHub` · `Notion` · `Confluence` · `Slack`
