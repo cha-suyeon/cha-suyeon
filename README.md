@@ -47,18 +47,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-### 📍 [**Geolocation with Building Facade Similarity**](https://github.com/cha-suyeon)  
-- Triplet Loss dataset design + Vision Transformer embedding  
-- Achieved significant accuracy improvement in image retrieval
-
-### 🤖 [**RAG-based Financial QA System**](https://github.com/cha-suyeon)  
-- SEC 10-K document extraction + hybrid search (BM25, FAISS)  
-- Optimized QA response using LangChain & prompt engineering
-
----
-
 ## 📝 My Tech Blog  
 I share **AI/ML tutorials, research papers, and development tips** here:  
 
