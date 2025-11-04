@@ -11,7 +11,7 @@
 ## About Me
 
 - **AI Engineer** specializing in **Computer Vision** and **Large Language Models (LLMs)**.
-- **Backend Developer** focused on building and deploying scalable AI services and APIs.
+- Developing and maintaining **backend APIs** for the team's web platform service.
 - Key Interests: **Multimodal Learning, RAG, API Development, MLOps, System Design**
 
 ---
@@ -26,9 +26,9 @@
 
 ## Experience
 
-### **AI Engineer & Backend Developer @ Suseong Engineering (2025.NN ~ Present)**
+### **AI Engineer & Backend Developer @ Suseong Engineering (2025.01 ~ Present)**
 - Developed **building facade similarity-based geolocation system** using Triplet Loss & ViT.
-- Building and maintaining **backend APIs** for production-level AI services.
+- **Backend APIs** for production-level AI services.
 
 ### **NLP Research Intern @ NCSOFT (2024)**
 - Designed **plot-structured prompts** and fine-tuned LLMs for multilingual story generation.
