@@ -28,7 +28,7 @@
 
 ### **AI Engineer & Backend Developer @ Suseong Engineering (2025.01 ~ Present)**
 - Developed **building facade similarity-based geolocation system** using Triplet Loss & ViT.
-- **Backend APIs** for production-level AI services.
+- Developing and maintaining **backend APIs** for the team's web platform service.
 
 ### **NLP Research Intern @ NCSOFT (2024)**
 - Designed **plot-structured prompts** and fine-tuned LLMs for multilingual story generation.
